@@ -127,3 +127,34 @@ Take a look of some ScreenShot of FunctionalInterface
 
 
 This is what functional interface look like line 1 is optional but it will tell the compiler to check that given interface is functional interface or not.
+
+oK now let's how will happen if we give two abstract method in fucntional Interface Let me show you ScreenShot 2
+> ![image](https://user-images.githubusercontent.com/67812755/113496248-5e11aa80-9515-11eb-9cd2-b192f2acb459.png)
+
+by giving those @functionalInterface annonation compiler check whether the given interface conatain one single abstarct method or not in this case it's not so compiler give us an error. I hope by this point you have much more clarity what is functional interface. 
+### Let cover some few important cases of Functional Interface 
+> Case 1:
+> 
+![image](https://user-images.githubusercontent.com/67812755/113496832-44736180-951b-11eb-9a3c-d2f8965a5996.png)
+
+> Explanation: If parent interface contain one single abtsract method then we should not declare the same abstract method twice we can use from parent class
+>
+
+> Case 2:
+> 
+![image](https://user-images.githubusercontent.com/67812755/113496912-04f94500-951c-11eb-8617-7c760883850f.png)
+
+> Explanation: If parent interface contain one single abtsract method and even if we declare the same method in child interface we will not get any error 
+
+
+> Case 3:
+> 
+> Question: What if we given parent interface different single abstract method and child interface single different abstract method
+> 
+![image](https://user-images.githubusercontent.com/67812755/113496971-a1bbe280-951c-11eb-9f1e-199335cbbc8f.png)
+
+> Explanation: If parent interface contain one single abtsract method and  if we declare the different abstract method in child interface we will not get an compile time error
+> saying 
+>
+> Compile Time Error(CE):  B is not an functional interface multiple non-overriding abstract method found in interface B  
+
