@@ -199,5 +199,23 @@ how to deal with return type in Lambda Expression. Don't Worry brother I got you
 > 3. Write a lambda Expression  and pass a argument and tell whether the given number is EVEN or ODD
 >
 
-## Lambda Expressions Multithreading
+## Multithreading using Lambda Expressions
 
+> **Code number 1(Implementing Runnable interface using normal approach)**
+> 
+>
+>We all know this aproach but if you want to notice something you can remember that Runnable is a functional interface, really YES! it contain only one single abstract method
+>run() which make him a functional interface, have a nice look on this code in the next image you will seeing lambda expression with Runnable interface
+>
+>
+>![image](https://user-images.githubusercontent.com/67812755/113511185-3275db00-957c-11eb-9e74-c84a5438cd1f.png)
+>
+>
+>**Let's Convert (lambda expression with Runnable interface)**
+>
+>So, as you know or I'll say if you know multithreading the output will vary OS to OS and every time you run because both main and child thread priority are same
+>
+>![image](https://user-images.githubusercontent.com/67812755/113511281-b8922180-957c-11eb-896f-f556141fd156.png)
+>
+ If you able to adapt this simple multithreading concept then Congragulation! it will really help you to become a good java programmer like me! Just Kidding 😂
+ Enough of this shitty joke let's move toward the important concept of Lambda Expression with Collections ! OOOOHHHHHH YEAH  ❤
