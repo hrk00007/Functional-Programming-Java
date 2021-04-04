@@ -219,3 +219,32 @@ how to deal with return type in Lambda Expression. Don't Worry brother I got you
 >
  If you able to adapt this simple multithreading concept then Congragulation! it will really help you to become a good java programmer like me! Just Kidding 😂
  Enough of this shitty joke let's move toward the important concept of Lambda Expression with Collections ! OOOOHHHHHH YEAH  ❤
+
+## Lambda Expression with Collections
+Before starting to Lambda Expression with collection. Let me cover some Comparator concept if you know it you can skip but don't skip it will be amazing.
+> Comparator:
+> 
+> Comparator is an functional interface which means it has only one method and we all know that is _**int compare(Object obj1,Object obj2)**_
+>
+> 1. return -1 if obj1 has to come before obj2
+> 2. return 1 if obj1 has to come after obj2
+> 3. return 0 if obj1 and obj2 is equal
+> 
+
+> ![image](https://user-images.githubusercontent.com/67812755/113518221-8dbac400-95a2-11eb-8c64-8b343c780ce2.png)
+
+**In order to sort in ascending order we can go though this but what will we do if want to sort in Descending Order**
+
+> Here is what we can do 
+> 
+> ![image](https://user-images.githubusercontent.com/67812755/113517864-2ef44b00-95a0-11eb-8125-523d5a438255.png)
+
+> Since you are here with me all the time let me give you a gift you deserve that right!
+>
+>
+> Here it is
+> 
+>![image](https://user-images.githubusercontent.com/67812755/113518118-e8075500-95a1-11eb-9cdb-95bae485c454.png)
+>
+> I don't need to tell you what are those if your fundamentals of programming are clear!
+> 
