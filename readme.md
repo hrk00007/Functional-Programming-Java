@@ -158,3 +158,46 @@ by giving those @functionalInterface annonation compiler check whether the given
 >
 > Compile Time Error(CE):  B is not an functional interface multiple non-overriding abstract method found in interface B  
 
+### As we look some of the edge cases of functional interface and let's do some real programming
+
+_**Code number 1(Functional Interface without lambda)**_
+> 
+> ![image](https://user-images.githubusercontent.com/67812755/113502766-f75bb380-954b-11eb-8cd8-b12ba837859d.png)
+
+Okay so that approach is traditional, you aren't here for that I know. Let's convert piece of code into concise code
+> HERE WE GO! BABY _**Code number 1(Functional Interface with lambda)**_
+> ![image](https://user-images.githubusercontent.com/67812755/113502901-77821900-954c-11eb-8ce8-7a2597111748.png)
+>
+> Now, this is what i call functional programming but this is just a start we are going to do much more awesome things together 
+> 
+> Enough of your little happiness let's move to _**CODE NUMBER 2**(functional interface with two argument and without Lambda Expression)_
+> 
+>![image](https://user-images.githubusercontent.com/67812755/113503280-7b169f80-954e-11eb-8fe4-12d04ad2c0ca.png)
+>
+Okay, now you know that we will do we will convert this into Lambda Expression
+>
+>_**CODE NUMBER 2**(functional interface with two argument Lambda Expression)_
+>![image](https://user-images.githubusercontent.com/67812755/113503164-b82e6200-954d-11eb-9bf2-0402589aa77b.png)
+>
+This is how you do it when you want to work with parameter with lambda Expression. Are you tried? because we are not over it? Still one more thing to cover. Yeah! You got it
+how to deal with return type in Lambda Expression. Don't Worry brother I got you.
+
+> **_Let's move toward to last thing you should know about Lambda Expression with return type_**
+> _**Code number 3(Functional Interface with return type and without lambda)**_
+>
+>
+>![image](https://user-images.githubusercontent.com/67812755/113503574-58858600-9550-11eb-8b93-78a989662aef.png)
+>
+> Okay, now you know that we will do we will convert this into Lambda Expression
+> 
+>![image](https://user-images.githubusercontent.com/67812755/113503781-a3ec6400-9551-11eb-8244-3400e90b0604.png)
+>
+> Okay so everyting you should about the basics of Lambda Expression and Funtional Interface we covered it (Let's take this course to some advance level)
+> You can take some Exercises:
+> 1. Write two lambda Expression for square and cube
+> 2. Make a simple calculator using lambda expression
+> 3. Write a lambda Expression  and pass a argument and tell whether the given number is EVEN or ODD
+>
+
+## Lambda Expressions Multithreading
+
