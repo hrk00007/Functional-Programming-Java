@@ -248,3 +248,34 @@ Before starting to Lambda Expression with collection. Let me cover some Comparat
 >
 > I don't need to tell you what are those if your fundamentals of programming are clear!
 > 
+>Now we will convert this comparator functional interface using lambda Expressions
+>
+>
+![image](https://user-images.githubusercontent.com/67812755/113552829-584ebe80-9614-11eb-9d9b-ae0548d60e5e.png)
+>
+
+> If you know Streams the next example can really help you ,Otherwise it will be uploaded soon in my github repo under the name Streams in java
+> 
+ ![image](https://user-images.githubusercontent.com/67812755/113553166-ef1b7b00-9614-11eb-9583-ab64ef817ed4.png)
+> 
+> If you don't get this don't worry we will streams in java in the next article 
+> 
+> This is all about number kind of thing. Let me take some real life example problems so you will get hands on some major advantages of lambda Expressions
+> Here is Eg 1: 
+> In this example we are sorting in ascending order of empno 
+>
+![image](https://user-images.githubusercontent.com/67812755/113554043-5128b000-9616-11eb-81fe-d63c9951632e.png)
+>
+>
+> Here is Eg 2: 
+>In this example we are sorting in ascending order of empname (we are using comparable which is also a functional interface contain compareTo method)
+>
+![image](https://user-images.githubusercontent.com/67812755/113554321-c4cabd00-9616-11eb-9f23-14ab524b8997.png)
+>
+>
+> 
+
+So this is all about **Lambda Expression with collections!**  Hope your learning amazing things from here
+
+## Anonymous Inner Class vs Lambda Expressions
+
