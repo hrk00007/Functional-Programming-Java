@@ -258,7 +258,7 @@ Before starting to Lambda Expression with collection. Let me cover some Comparat
 > 
  ![image](https://user-images.githubusercontent.com/67812755/113553166-ef1b7b00-9614-11eb-9583-ab64ef817ed4.png)
 > 
-> If you don't get this don't worry we will streams in java in the next article 
+> If you don't get this don't worry we will learn streams in java in the next article 
 > 
 > This is all about number kind of thing. Let me take some real life example problems so you will get hands on some major advantages of lambda Expressions
 > Here is Eg 1: 
@@ -278,4 +278,33 @@ Before starting to Lambda Expression with collection. Let me cover some Comparat
 So this is all about **Lambda Expression with collections!**  Hope your learning amazing things from here
 
 ## Anonymous Inner Class vs Lambda Expressions
+
+Some of you may know what are inner class or don't. I am considering as you don't know what are inner classes so let me give you an eg;
+>
+>
+>![image](https://user-images.githubusercontent.com/67812755/113568917-1bdc8c00-962f-11eb-8c54-15e87f7681cf.png)
+>
+> You can see that runnable it doesn't end with semicolon it contain the whole body of a class, now that is what java people called Inner class.
+> 
+>Now let's move towards Lambda Expression one
+>
+> ![image](https://user-images.githubusercontent.com/67812755/113569122-8f7e9900-962f-11eb-84ee-b40b6e0c0715.png)
+> 
+> Now this is what they called Lambda Expression 
+> 
+> Don't you dare to think that they are same. They are definetly not. Okay!
+> 
+> If you still not beleive let me tell you an example
+>
+> ![image](https://user-images.githubusercontent.com/67812755/113569686-8d690a00-9630-11eb-848d-310c6029f79f.png)
+>
+>
+> If your interface contain two abstract method we can't go for lambda Exression but we can use Inner classes in such cases
+> So,Here are some of the points of these section you should always remember
+> * Anonymous Inner class can extend a normal class
+> * Anonymous Inner class can extend a abstract class
+> * Anonymous Inner class can implement an interface which contains any number of abstract method
+> * Lambda Expressions can implement an interface which contains a single abstract method(FI)
+> * Anonymous Inner class != Lambda Expression
+> * Anonymous Inner class> > Lambda Expression
 
