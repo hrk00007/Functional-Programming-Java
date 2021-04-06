@@ -363,3 +363,29 @@ Here p2 predicate check whether the given number is greater than 10 or not
 So this is all about Predicate functional interface! Hope you are having a Good time 😍❤
 
 ### Predefined Functional Interface: _**Function**_
+If you are here from starting it means you know how we converted our normal codes into Lambda Expression. But we will grasp the speed now. Okay! Well if you not agree than also you don't have a choice here 😂😂 
+
+> Now in the last section of predicate we check that we can perform some test operation true or false type, but what if we want to perform some operation like square,cube etc.
+> Well in such cases we can go for functional function interface Yass you heard it right!.
+
+Let me take an example
+>
+In the first f1 function we are taking an integer as input and returning it's square 
+>
+In the second f2 function we are taking an string as input and returning it's length
+>
+
+> ![image](https://user-images.githubusercontent.com/67812755/113758813-fa17fd80-9731-11eb-829a-007d12c1520e.png)
+>
+
+> 
+
+> **Example Number 2 (V.V.V.V Imp )**
+
+> 
+![image](https://user-images.githubusercontent.com/67812755/113759839-2da75780-9733-11eb-853a-a10e8e0d0837.png)
+
+In this code we have a function f1 which take student as argument string as return type and we are returing grade from f1 interface
+And then we take a predicate which we learned in last lesson and we are checking those student who got marks more than 75%. 
+
+And now we are done with fucntional function interface! Let move towards **Consumer**
