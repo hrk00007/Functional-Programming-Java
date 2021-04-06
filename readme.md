@@ -335,7 +335,31 @@ Okay now we will convert this code with Lambda Expression
 We take those numerical type example. Let me cover some real life example so you will get some real clarity on predicate
 
 > Look at this code carefully. I created a employee class which contain three data member empid,ename,salary and all those constructor and getter,setter. You know that stuff don't you. Yeah Right!
-> Now you will check whose salary is greater than 100 and we will print there name and that boolean output
+> Now you will check whose salary is greater than 1000 and we will print there name and that boolean output
 > 
 ![image](https://user-images.githubusercontent.com/67812755/113746688-39d7e880-9724-11eb-9e24-031930b6fae7.png)
 
+Hope you get this example let me cover one last example in predicate which is really underrated concept
+In java 1.8 in interface we can declare default() and static() method also any number of time we want. So in predicate there are some default method you should aware of and 
+it might help you sometimes
+
+> Look At this Image Carefully from JAVA SE 8 DOCS
+> ![image](https://user-images.githubusercontent.com/67812755/113748138-c46d1780-9725-11eb-8f22-95daa5410122.png)
+> test is an abstract method but other than test there are some methods we are going to cover it all in one single example.
+> Look at this code now
+Here p1 predicate check whether the given number is odd or not
+Here p2 predicate check whether the given number is greater than 10 or not
+>
+>
+ ![image](https://user-images.githubusercontent.com/67812755/113749157-f2069080-9726-11eb-92cb-ff7ce35582a3.png)
+> 
+> In the line 1 or first for loop we are checking both the condition of p1 and p2 should be two i.e number should be odd and greater than 10 also (45,85).
+> 
+> In the line 2 or second for loop we are checking either of the condition of p1 and p2 should be two i.e number should be odd or greater than 10 also (12 45 26 85 5 7 ).
+> 
+> In the line 3 or third for loop we will get the opposite of the output in that case our output should be (45,85) but we are exactly opposite ( 12 26 5 7 8 ).
+> 
+>
+So this is all about Predicate functional interface! Hope you are having a Good time 😍❤
+
+### Predefined Functional Interface: _**Function**_
