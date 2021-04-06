@@ -308,3 +308,23 @@ Some of you may know what are inner class or don't. I am considering as you don'
 > * Anonymous Inner class != Lambda Expression
 > * Anonymous Inner class> > Lambda Expression
 
+##### Before we start the next section. I'll tell you something important that we are taking a deep dive in some real functional programming. So be carefully with it.
+
+### Predefined Functional Interface: _**Predicate**_
+
+In this code we are going to peform a condition checking operation whether the given number is even or odd. We are writing a boolean function which returns true if the number is even and false if the numbers is odd
+
+![image](https://user-images.githubusercontent.com/67812755/113651613-efb51f80-96af-11eb-84e8-6d8b4d0010c7.png)
+
+> Okay now we will convert this code into predicate by implementing predicate Interface
+ 
+> In the next code we are implementing the predicate interface which is a functional interface with only one single abstract method named **test** which will check the condition and return true or false
+> 
+ 
+>![image](https://user-images.githubusercontent.com/67812755/113651929-8386eb80-96b0-11eb-840e-d01b88c95be8.png)
+
+Okay now we will convert this code with Lambda Expression
+
+> See how easy it is and look at the code simple and clean.Now that is called Functional Programming
+> 
+![image](https://user-images.githubusercontent.com/67812755/113652266-17f14e00-96b1-11eb-91a2-88aab6d674cc.png)
