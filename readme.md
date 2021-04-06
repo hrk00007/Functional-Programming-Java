@@ -312,6 +312,9 @@ Some of you may know what are inner class or don't. I am considering as you don'
 
 ### Predefined Functional Interface: _**Predicate**_
 
+**What is a predicate?** 
+_**Ans:**_ Predicate is a functional interface, which accepts an argument and returns a boolean. Usually, it used to apply in a filter for a collection of objects.
+
 In this code we are going to peform a condition checking operation whether the given number is even or odd. We are writing a boolean function which returns true if the number is even and false if the numbers is odd
 
 ![image](https://user-images.githubusercontent.com/67812755/113651613-efb51f80-96af-11eb-84e8-6d8b4d0010c7.png)
@@ -328,3 +331,11 @@ Okay now we will convert this code with Lambda Expression
 > See how easy it is and look at the code simple and clean.Now that is called Functional Programming
 > 
 ![image](https://user-images.githubusercontent.com/67812755/113652266-17f14e00-96b1-11eb-91a2-88aab6d674cc.png)
+
+We take those numerical type example. Let me cover some real life example so you will get some real clarity on predicate
+
+> Look at this code carefully. I created a employee class which contain three data member empid,ename,salary and all those constructor and getter,setter. You know that stuff don't you. Yeah Right!
+> Now you will check whose salary is greater than 100 and we will print there name and that boolean output
+> 
+![image](https://user-images.githubusercontent.com/67812755/113746688-39d7e880-9724-11eb-9e24-031930b6fae7.png)
+
