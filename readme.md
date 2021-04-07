@@ -462,3 +462,19 @@ Let's see by an example:
  > Consumer ---> accept()
  > 
  > Supplier ---> get()
+
+### BiPredicate
+>
+>
+ The only difference between predicate and biPredicate is predicate can take single argument and BiPredicate can take two argument. Let's see an example
+>
+>
+![image](https://user-images.githubusercontent.com/67812755/113906611-0cf20700-97f2-11eb-8834-223a081a1552.png)
+>
+Some real life example you can use.YEAH! let me take that
+>
+![image](https://user-images.githubusercontent.com/67812755/113907881-84746600-97f3-11eb-8029-c00c0781d097.png)
+>
+>
+### BiFunction
+
