@@ -405,3 +405,60 @@ Those comments will help you to understand that example quickly
 >
 
 ### Predefined Functional Interface: _** Consumer **_
+Consumer: Consumer<T> is an in-built functional interface.It take an argument of any type and perform operation without reuturing any thing.
+ >
+  
+ > 
+  Look at this example from last section we will add some more functionality here by using Consumer
+  
+  >
+![image](https://user-images.githubusercontent.com/67812755/113798132-3702e500-9770-11eb-8af4-5e297c49d591.png)
+>
+This is a really big example. Let me tell you line by line 
+From line 52 -- 68 there is a function which take Student as an argument and string as return type and we are calculating there grade. we take the same example in the last section if you want to check again! Surely you can revisit.
+>
+>
+69-74 We created a student array with 4 students as you can see
+>
+>
+In the line ---76 predicate we are filtering the student and checking who are those student got marks greater than 75% and it will return true or false. we take the same example in the Predicate section.
+>
+>
+Now comes the most important part Consumer. It is doing nothing just printing the value and calling the function. In the shorthand people say it consumes everything
+>
+And last but not the least we are calling predicate test in if condition inside for loop and if the condition is true we are  printing those student data.
+>
+> This is how we work with Consumer.
+> Now let me cover some default method in Consumer functional interface
+
+  ![image](https://user-images.githubusercontent.com/67812755/113801487-8ea44f00-9776-11eb-8152-f3d98d24d488.png)
+  >
+Read those comments of the code and you are good to go!.
+>
+>
+
+This is all about Consumer And let's move forward to last importnat topic **Supplier**
+
+>
+>
+**Supplier : ** It represents a function which does not take in any argument but produces a value of type T.
+>
+
+>In the non-techincal defination it doesn't take any argument and can be return anything according to the programmer's requirement.
+Let's see by an example:
+>
+
+>
+ ![image](https://user-images.githubusercontent.com/67812755/113802557-8a793100-9778-11eb-9904-4427c4ddb95e.png)
+>
+>
+
+ That's all about predifned functional Interface but if you understoond those next topics will be way to easy for you. Let's check out How but before go through this
+ 
+ > Predicate --> test() 
+ > 
+ > Function ---> apply()
+ > 
+ > Consumer ---> accept()
+ > 
+ > Supplier ---> get()
