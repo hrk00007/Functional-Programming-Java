@@ -473,8 +473,19 @@ Let's see by an example:
 >
 Some real life example you can use.YEAH! let me take that
 >
-![image](https://user-images.githubusercontent.com/67812755/113907881-84746600-97f3-11eb-8029-c00c0781d097.png)
+
 >
 >
 ### BiFunction
-
+>
+>
+Okay so now I am going to copy paste previous defination! Don't Jugde 😂😂
+>
+>
+ The only difference between Function and BiFunction is Function can take single argument and BiFunction can take two argument. Let's see an example
+>
+> It's an hard example look carefully and you will understand it very easily.✔
+> 
+>
+![image](https://user-images.githubusercontent.com/67812755/113907881-84746600-97f3-11eb-8029-c00c0781d097.png)
+>
