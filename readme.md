@@ -489,3 +489,17 @@ Okay so now I am going to copy paste previous defination! Don't Jugde 😂😂
 >
 ![image](https://user-images.githubusercontent.com/67812755/113907881-84746600-97f3-11eb-8029-c00c0781d097.png)
 >
+>
+### BiConsumer
+>
+>
+ The only difference between Consumer and BiConsumer is Consumer can take single argument and BiConsumer can take two argument. Let's see an example
+>
+If you wanna know how consumer work look the above section
+>
+In this example we are taking every employee and raising their salary by 500 rupees and printing all data through for loop we also have a method named populate which add employee to the list. 
+>
+>
+![image](https://user-images.githubusercontent.com/67812755/113912582-eedbd500-97f8-11eb-85c3-41f6be179839.png)
+>
+>
