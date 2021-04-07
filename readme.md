@@ -388,4 +388,20 @@ In the second f2 function we are taking an string as input and returning it's le
 In this code we have a function f1 which take student as argument string as return type and we are returing grade from f1 interface
 And then we take a predicate which we learned in last lesson and we are checking those student who got marks more than 75%. 
 
-And now we are done with fucntional function interface! Let move towards **Consumer**
+And now we are done with functional function interface! No WAIT! In the last topic predicate we cover some default method in predicate there are some default method in function interface also.
+
+>
+Those are some method let me take an example so that those function will also covered 
+>
+![image](https://user-images.githubusercontent.com/67812755/113796927-e68a8800-976d-11eb-9f19-69ef7a0a0569.png)
+>
+Those comments will help you to understand that example quickly
+
+>
+
+>![image](https://user-images.githubusercontent.com/67812755/113797222-7d574480-976e-11eb-82c5-18f372d1ed0f.png)
+>
+
+>
+
+### Predefined Functional Interface: _** Consumer **_
