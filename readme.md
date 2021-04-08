@@ -9,7 +9,7 @@ Why we should learn Functional Programming?
 Well, I'll give you one good reason if you want to convert your function into single line of code you should use functional programming, right now this is enough for you later you will understand everything.
 
 ## Table Of Contents
-* Introduction
+* [Introduction](https://github.com/hrk00007/Functional-Programming-Java#introduction-to-functional-programming)
 * Lambda Expression
 * Functional Interface
 * Lambda Expressions with Multithreading
