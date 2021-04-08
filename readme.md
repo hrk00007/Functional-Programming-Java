@@ -10,11 +10,11 @@ Well, I'll give you one good reason if you want to convert your function into si
 
 ## Table Of Contents
 * [Introduction](https://github.com/hrk00007/Functional-Programming-Java#introduction-to-functional-programming)
-* Lambda Expression
-* Functional Interface
-* Lambda Expressions with Multithreading
-* Lambda Expressions with Collections
-* Anonymous Inner Class vs Lambda Expressions
+* [Lambda Expression](https://github.com/hrk00007/Functional-Programming-Java#lambda-expression)
+* [Functional Interface](https://github.com/hrk00007/Functional-Programming-Java#functional-interface)
+* [Lambda Expressions with Multithreading](https://github.com/hrk00007/Functional-Programming-Java#multithreading-using-lambda-expressions)
+* [Lambda Expressions with Collections](https://github.com/hrk00007/Functional-Programming-Java#lambda-expression-with-collections)
+* [Anonymous Inner Class vs Lambda Expressions](https://github.com/hrk00007/Functional-Programming-Java#anonymous-inner-class-vs-lambda-expressions)
 * Default method() 
 * Static method()
 * Predefined Functional Interface
