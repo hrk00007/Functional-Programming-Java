@@ -503,3 +503,22 @@ In this example we are taking every employee and raising their salary by 500 rup
 ![image](https://user-images.githubusercontent.com/67812755/113912582-eedbd500-97f8-11eb-85c3-41f6be179839.png)
 >
 >
+### BiSuppiler
+Sorry! But there is no such thing as BiSuppiler because Suppiler doesn't take an argument so considering this point why should there be a BiSuppiler with two argument.So remember if any one ask about BiSuppiler you can say this.
+
+## Primitive Function Types:
+>
+>
+### IntPredicate
+>
+>
+There may be a question in your mind what we have predicate why we need IntPredicate. Well Predicate can take any type of argument it can be Integer,String,Float,Double but IntPredicate doesn't take an argument it made for only Integer. So if you are sure that what you are passing is an Integer then surely you can go with IntPredicate
+>
+>
+Look at this example and you will understand it.
+>
+>
+![image](https://user-images.githubusercontent.com/67812755/113972043-938cff80-9857-11eb-9f45-c32dbceea767.png)
+>
+>
+
