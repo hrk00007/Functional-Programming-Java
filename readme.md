@@ -15,19 +15,17 @@ Well, I'll give you one good reason if you want to convert your function into si
 * [Lambda Expressions with Multithreading](https://github.com/hrk00007/Functional-Programming-Java#multithreading-using-lambda-expressions)
 * [Lambda Expressions with Collections](https://github.com/hrk00007/Functional-Programming-Java#lambda-expression-with-collections)
 * [Anonymous Inner Class vs Lambda Expressions](https://github.com/hrk00007/Functional-Programming-Java#anonymous-inner-class-vs-lambda-expressions)
-* Default method() 
-* Static method()
 * Predefined Functional Interface
-  * One argument predifined  
+  * One argument predefined  
     * [Predicate](https://github.com/hrk00007/Functional-Programming-Java#predefined-functional-interface-predicate)
     * [Function](https://github.com/hrk00007/Functional-Programming-Java#predefined-functional-interface-function)
     * [Consumer](https://github.com/hrk00007/Functional-Programming-Java#predefined-functional-interface--consumer-) 
     * [Suppiler](https://github.com/hrk00007/Functional-Programming-Java/blob/main/readme.md#predefined-functional-interface--supplier-)
-  * Two argument predifined  
+  * Two argument predefined  
     * [BiPredicate](https://github.com/hrk00007/Functional-Programming-Java/blob/main/readme.md#bipredicate)
     * [BiFunction](https://github.com/hrk00007/Functional-Programming-Java/blob/main/readme.md#bifunction)
     * [BiConsumer](https://github.com/hrk00007/Functional-Programming-Java/blob/main/readme.md#biconsumer)
-  * Additional predifined  
+  * Additional predefined  
     * IntPredicate
     * IntFunction
     * IntConsumer 
