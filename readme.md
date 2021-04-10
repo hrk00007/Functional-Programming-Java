@@ -19,14 +19,14 @@ Well, I'll give you one good reason if you want to convert your function into si
 * Static method()
 * Predefined Functional Interface
   * One argument predifined  
-    * Predicate
-    * Function
-    * Consumer 
-    * Suppiler
+    * [Predicate](https://github.com/hrk00007/Functional-Programming-Java#predefined-functional-interface-predicate)
+    * [Function](https://github.com/hrk00007/Functional-Programming-Java#predefined-functional-interface-function)
+    * [Consumer](https://github.com/hrk00007/Functional-Programming-Java#predefined-functional-interface--consumer-) 
+    * [Suppiler](https://github.com/hrk00007/Functional-Programming-Java/blob/main/readme.md#predefined-functional-interface--supplier-)
   * Two argument predifined  
-    * BiPredicate
-    * BiFunction
-    * BiConsumer
+    * [BiPredicate](https://github.com/hrk00007/Functional-Programming-Java/blob/main/readme.md#bipredicate)
+    * [BiFunction](https://github.com/hrk00007/Functional-Programming-Java/blob/main/readme.md#bifunction)
+    * [BiConsumer](https://github.com/hrk00007/Functional-Programming-Java/blob/main/readme.md#biconsumer)
   * Additional predifined  
     * IntPredicate
     * IntFunction
