@@ -441,7 +441,10 @@ This is all about Consumer And let's move forward to last importnat topic **Supp
 
 >
 >
-**Supplier : ** It represents a function which does not take in any argument but produces a value of type T.
+### Predefined Functional Interface: _** Supplier **_ 
+>
+>
+It represents a function which does not take in any argument but produces a value of type T.
 >
 
 >In the non-techincal defination it doesn't take any argument and can be return anything according to the programmer's requirement.
